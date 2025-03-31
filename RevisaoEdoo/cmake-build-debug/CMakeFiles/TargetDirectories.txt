@@ -1,0 +1,3 @@
+C:/Users/ebber/CLionProjects/RevisaoEdoo/cmake-build-debug/CMakeFiles/RevisaoEdoo.dir
+C:/Users/ebber/CLionProjects/RevisaoEdoo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ebber/CLionProjects/RevisaoEdoo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
